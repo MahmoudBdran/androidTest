@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0E0E0E</color>
+    <color name="colorPrimaryDark">#0E0E0E</color>
+    <color name="colorAccent">#0E0E0E</color>
+    <color name="above_background_coloe">#0E0E0E</color>
+    <color name="below_background_coloe">#1c1c1c</color>
+    <color name="textColor">#a3a2a2</color>
+    <color name="secondaryTextColor">#616161</color>
+    <color name="op_color">#8A1111</color>
+    <color name="delete_color">#575656</color>
+    <color name="invert_below_background_coloe">#fff</color>
+    <color name="invert_above_background_color">#dedede</color>
+    <color name="invert_text_color">#302F2F</color>
+    <color name="invert_delete_color">#a3a2a2</color>
+</resources>
